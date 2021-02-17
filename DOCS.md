@@ -6,13 +6,16 @@
 
 <!-- BEGIN TOC -->
 
-- [app](#app)
-  - [todos.js](#srcapptodosjs)
+- [classes](#classes)
+  - [repos.js](#srcclassesreposjs)
 - [handlers](#handlers)
-  - [add-todo.js](#srchandlersadd-todojs)
+  - [issueshandlers.js](#srchandlersissueshandlersjs)
+  - [reposhandler.js](#srchandlersreposhandlerjs)
 - [init](#init)
   - [index.js](#srcinitindexjs)
 - [listeners](#listeners)
+  - [issuelisteners.js](#srclistenersissuelistenersjs)
+  - [reposlistener.js](#srclistenersreposlistenerjs)
 - [data.js](#srcdatajs)
 
 <!-- END TOC -->
@@ -21,11 +24,11 @@
 
 ---
 
-# app
+Classes and their tests
 
 ---
 
-### [./src/app/todos.js](./src/app/todos.js?study)
+### [./src/classes/repos.js](./src/classes/repos.js?study)
 
 [TOP](#DOCS)
 
@@ -45,7 +48,11 @@ Handler function define user interactions. They will:
 
 ---
 
-### [./src/handlers/add-todo.js](./src/handlers/add-todo.js?study)
+### [./src/handlers/issueshandlers.js](./src/handlers/issueshandlers.js?study)
+
+---
+
+### [./src/handlers/reposhandler.js](./src/handlers/reposhandler.js?study)
 
 [TOP](#DOCS)
 
@@ -70,6 +77,14 @@ Handler function define user interactions. They will:
 Event listeners are used to connect handler functions to user interactions with the DOM.
 
 You can use the same handler in many different listeners, or add more than one listeners to the same DOM element.
+
+---
+
+### [./src/listeners/issuelisteners.js](./src/listeners/issuelisteners.js?study)
+
+---
+
+### [./src/listeners/reposlistener.js](./src/listeners/reposlistener.js?study)
 
 [TOP](#DOCS)
 
