@@ -1,7 +1,33 @@
 > ...
 
-## Getting Started
+![Github issues](https://img.shields.io/bitbucket/issues-raw/tahminarasoli/Portfolio?style=for-the-badge) ![Github Pull Requests](https://img.shields.io/bitbucket/pr-raw/tahminarasoli/Portfolio?style=for-the-badge) ![Github Commits](https://img.shields.io/github/commit-activity/m/tahminarasoli/Portfolio?style=for-the-badge)
 
+---
+This project is not complete yet acoording to time limitation. there are a lot more to do including refactoring the code and add some more features.
+
+---
+
+## Indevidual project
+### @tahminarasoli portfolio
+
+## Indevidual project checklist
+---
+- [X] [repo](https://github.com/tahminarasoli/Portfolio) (with a complete README)
+- [X] [live demo](https://tahminarasoli.github.io/Portfolio/)
+- Planning
+  - [X] [Backlog](https://github.com/tahminarasoli/Portfolio/tree/master/project-planning/backlog.md)
+  - [ ] [Development Strategy](https://github.com/tahminarasoli/Portfolio/tree/master/project-planning/development-strategy.md)
+  - [X] [Project board](https://github.com/tahminarasoli/Portfolio/projects/9)
+- Implementation
+  - [X] ES Modules (`import`/`export`)
+  - [ ] at least one `class`
+  - [ ] at least one call to the GitHub API
+  - [ ] Logs of each user interaction
+
+
+## Getting Started
+<details>
+<summary>expand/collapse</summary>
 This repository comes with some nice extras like testing, documentation and CI, but in it's heart it's just an HTML/CSS/JS website boilerplate.
 
 ### Development
@@ -40,3 +66,4 @@ This repository comes with a GitHub Action to re-build the documentation and run
 Having this CI action means that your master branch will always have the most up-to-date documentation, and that you can easily check test results when reviewing Pull Requests.
 
 > ...
+</details>
