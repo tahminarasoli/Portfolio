@@ -3,7 +3,7 @@
 ![Github issues](https://img.shields.io/bitbucket/issues-raw/tahminarasoli/Portfolio?style=for-the-badge) ![Github Pull Requests](https://img.shields.io/bitbucket/pr-raw/tahminarasoli/Portfolio?style=for-the-badge) ![Github Commits](https://img.shields.io/github/commit-activity/m/tahminarasoli/Portfolio?style=for-the-badge)
 
 ---
-This project is not complete yet acoording to time limitation. there are a lot more to do including refactoring the code and add some more features.
+This project is not complete yet acoording to time limitation. there are a lot more to do including, add it to my 'io' repository, refactoring the code and add some more features.
 
 ---
 
